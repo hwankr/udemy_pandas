@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# mac stuff
+.DS_Store
+
+# Large course files, checkpoints
+.ipynb_checkpoints/
+.ruff_cache
+
+# VSCode settings
+.vscode/
+jupyter-cleaner.js
+

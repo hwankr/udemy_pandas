@@ -1,0 +1,20 @@
+# Local agent/runtime folders
+.agents/
+.codex/
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Local editor and notebook files
+.DS_Store
+.ipynb_checkpoints/
+.ruff_cache/
+.vscode/
